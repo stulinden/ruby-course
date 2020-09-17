@@ -12,8 +12,8 @@ if color == "blue"
 
 # Lesson 5: Adding an Else Statement
 
-# if color == "blue"
-#     puts "Wow! My favorite color is #{color} also!"
-# else
-#     puts "I'm not a big fan of #{color}."
-# end
+ if color == "blue"
+     puts "Wow! My favorite color is #{color} also!"
+ else
+     puts "I'm not a big fan of #{color}."
+ end
